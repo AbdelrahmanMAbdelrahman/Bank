@@ -1,0 +1,12 @@
+C:\Users\f\source\repos\BankData\bin\Debug\BankData.dll
+C:\Users\f\source\repos\BankData\bin\Debug\BankData.pdb
+C:\Users\f\source\repos\BankData\obj\Debug\BankData.csproj.AssemblyReference.cache
+C:\Users\f\source\repos\BankData\obj\Debug\BankData.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\BankData\obj\Debug\BankData.dll
+C:\Users\f\source\repos\BankData\obj\Debug\BankData.pdb
+C:\Users\f\source\repos\BankFolder\BankData\bin\Debug\BankData.dll
+C:\Users\f\source\repos\BankFolder\BankData\bin\Debug\BankData.pdb
+C:\Users\f\source\repos\BankFolder\BankData\obj\Debug\BankData.csproj.AssemblyReference.cache
+C:\Users\f\source\repos\BankFolder\BankData\obj\Debug\BankData.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\BankFolder\BankData\obj\Debug\BankData.dll
+C:\Users\f\source\repos\BankFolder\BankData\obj\Debug\BankData.pdb
